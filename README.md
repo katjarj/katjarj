@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Katja. Welcome to my little world of code things.
 
 <!--
 **katjarj/katjarj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
